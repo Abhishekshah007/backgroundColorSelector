@@ -177,20 +177,7 @@ nav {
     font-family: cursive;
     font-weight: bold;
 }
-.nav-links {
-  display: flex;
-}
-nav a {
-  text-transform: capitalize;
-  font-weight: 700;
-  font-size: 1rem;
-  color: var(--clr-primary-1);
-  letter-spacing: var(--spacing);
-  margin-right: 1rem;
-}
-nav a:hover {
-  color: var(--clr-primary-5);
-}
+
 /*
 =============== 
 Container
